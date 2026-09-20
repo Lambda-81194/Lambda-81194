@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=computer%20science%20graduate&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20YSHANIA&fontSize=44& fontColor=ffffff width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=CBA6F7&center=true&vCenter=true&width=560&height=40&lines=Web+development+%E2%9C%A6+Machine+learning;Building+things+that+work+and+look+good" alt="Typing SVG" />

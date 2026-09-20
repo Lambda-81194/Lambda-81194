@@ -10,7 +10,7 @@
 
 ## ✦ About me
 
-I'm a computer science graduate with a growing passion for **web development** and **machine learning**. I enjoy building clean, responsive interfaces and exploring how AI can make them smarter.
+I'm a computer science graduate with a growing passion for **web development** and **machine learning**. 
 
 <br/>
 
